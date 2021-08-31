@@ -3,7 +3,7 @@
 
 [![Pong](https://i.ibb.co/LkwZ4L7/Classic-Pong.png)](https://www.mediafire.com/file/0y3dpydbd03tn81/CLASSIC_PONG_1.0.zip/file)
 
-### Download Exe: *mediafire.com/file/0y3dpydbd03tn81/CLASSIC_PONG_1.0.zip/file*
+### Download Exe: *https://mediafire.com/file/0y3dpydbd03tn81/CLASSIC_PONG_1.0.zip/file*
 
 ## Description
 This is my first ever game. A popular 70s game created using Python/Pygame.
